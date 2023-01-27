@@ -1,0 +1,5 @@
+1.ui_2(Screen)===(widgets)receents_tips_item_view
+
+2.ui_2_ListView(Screen)====(widgets)receents_tips_item_view
+
+3.(ui_2 / ui_2_ListView_models)<----->trips_model(Model)====(widget)receents_tips_item_view_model
